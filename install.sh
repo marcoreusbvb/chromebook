@@ -29,7 +29,7 @@ SPLAT=$0
 # chromebook.
 TARBALL=ArchLinuxARM-peach-latest.tar.gz
 # This is the download URL for the above tarball and its md5 file
-ARCH_URL=http://os.archlinuxarm.org/os
+ARCH_URL=http://mirrors.ustc.edu.cn/archlinuxarm/os/$repo
 
 # This is the mount point for the root FS to which the tarball will be extracted
 ROOTFS=/tmp/root
